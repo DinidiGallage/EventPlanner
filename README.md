@@ -19,13 +19,18 @@ This Java project is an event planning website designed to streamline the proces
 ## Technologies Used
 - **Java:** 
   Java was the primary programming language used for the development of this project. It provided the foundation for implementing the backend logic, data manipulation, and overall application functionality.
+
 - **Object-Oriented Programming (OOP) Concepts:** 
   Object-oriented programming principles such as encapsulation, inheritance, and polymorphism were leveraged to design a modular and maintainable codebase.
+
 - **JavaServer Pages (JSP) and Servlets:** 
   JSP and Servlets were employed for building dynamic web pages and handling HTTP requests and responses.
+
 - **Apache Tomcat Server:** 
   Apache Tomcat Server served as the web server and servlet container for deploying and running the Java web application.
+
 - **SQL for Database Management:** 
   Structured Query Language (SQL) was used for managing the application's relational database.
+
 - **Integrated Development Environment (IDE):** 
   Eclipse IDE was utilized as the Integrated Development Environment for this project.
