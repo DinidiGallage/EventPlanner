@@ -17,6 +17,7 @@ This Java project is an event planning website designed to streamline the proces
   - Make reservations
 
 ## Technologies Used
+
 - **Java:** 
   Java was the primary programming language used for the development of this project. It provided the foundation for implementing the backend logic, data manipulation, and overall application functionality.
 
